@@ -1,6 +1,6 @@
 ![Followers](https://img.shields.io/github/followers/Lyzee666?label=Follow&style=social)
 ![Visitor](https://komarev.com/ghpvc/?username=Lyzee666)
-[![Discord](https://img.shields.io/badge/-Discord%20Server-7289da?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/bennstore)
+[![Discord](https://img.shields.io/badge/-Discord%20Server-7289da?style=flat-square&logo=discord&logoColor=white)](https://discord.bennstore.xyz)
 
 ### Language and Tools
 <img align="left" alt="Visual Studio Code" width="26px" src="https://i.imgur.com/LwSdAlE.png" />
